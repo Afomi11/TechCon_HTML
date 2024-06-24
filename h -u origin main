@@ -1,0 +1,51 @@
+[33mcommit fd9763ec9aae97fee4259e2d95d98fdd620c6c19[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Afomi11 <tenayehailu97@gmail.com>
+Date:   Mon Jun 24 21:51:57 2024 +0300
+
+    Add homepage for TechCon 2024
+
+[1mdiff --git a/techcon_website/index.html b/techcon_website/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..1effb7e[m
+[1m--- /dev/null[m
+[1m+++ b/techcon_website/index.html[m
+[36m@@ -0,0 +1,39 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>TechCon 2024</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m    <!-- Header Section -->[m
+[32m+[m[32m    <header>[m
+[32m+[m[32m        <h1>TechCon 2024</h1>[m
+[32m+[m[32m        <nav>[m
+[32m+[m[32m            <ul>[m
+[32m+[m[32m                <li><a href="about.html">About</a></li>[m
+[32m+[m[32m                <li><a href="schedule.html">Schedule</a></li>[m
+[32m+[m[32m                <li><a href="register.html">Register</a></li>[m
+[32m+[m[32m                <li><a href="contact.html">Contact</a></li>[m
+[32m+[m[32m            </ul>[m
+[32m+[m[32m        </nav>[m
+[32m+[m[32m    </header>[m
+[32m+[m
+[32m+[m[32m    <!-- Main Section -->[m
+[32m+[m[32m    <main>[m
+[32m+[m[32m        <section>[m
+[32m+[m[32m            <h2>Welcome to TechCon 2024</h2>[m
+[32m+[m[32m            <p>Join us for TechCon 2024, the premier conference for technology enthusiasts, professionals, and innovators. Explore the latest trends, meet industry leaders, and gain valuable insights into the future of technology.</p>[m
+[32m+[m[32m            <video controls>[m
+[32m+[m[32m                <source src="promotional_video.mp4" type="video/mp4">[m
+[32m+[m[32m                Your browser does not support the video tag.[m
+[32m+[m[32m            </video>[m
+[32m+[m[32m        </section>[m
+[32m+[m[32m    </main>[m
+[32m+[m
+[32m+[m[32m    <!-- Footer Section -->[m
+[32m+[m[32m    <footer>[m
+[32m+[m[32m        <p>&copy; 2024 TechCon. All rights reserved.</p>[m
+[32m+[m[32m    </footer>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
